@@ -7,7 +7,7 @@ I'm a Chicago-based, "Boogie Down Bronx" raised, full stack software engineer sp
 * 🖥️  See my portfolio at [cesartheroman.com](http://cesartheroman.com/)
 * ✉️  You can contact me at [cesardroman18@gmail.com](mailto:cesardroman18@gmail.com)
 * 🤝  I'm open to collaborating on full-time, contract, or freelance opportunities
-* ⚡  Outside of coding, you can catch me yelling at my TV out of pure joy—but most likely out of frustration—while rooting for the Indianapolis Colts or the Mexican National Football Team. Outside of my sports fandom, you can catch me playing with my Australian Cattle and Shepherd mix dog, Benji!
+* ⚡  Outside of coding, you can catch me yelling at my TV out of pure joy—but most likely out of frustration—while rooting for the Indianapolis Colts or the Mexican National Football Team. Outside of my sports fandom, you can catch me playing with my Australian Cattle and Shepherd mix, Benji!
 
 ### Skills
 
