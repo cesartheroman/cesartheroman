@@ -3,11 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a Chicago-based, "Boogie Down Bronx" raised, full stack software engineer specializing in JavaScript, TypeScript, React, and Node. Currently, I'm a free agent looking to join an exciting tech company with strong leadership, team culture, and growth opportunities!
 
-* 🌍  I'm based in Chicago
 * 🖥️  See my portfolio at [cesartheroman.com](http://cesartheroman.com/)
 * ✉️  You can contact me at [cesardroman18@gmail.com](mailto:cesardroman18@gmail.com)
 * 🤝  I'm open to collaborating on full-time, contract, or freelance opportunities
-* 🧠  I'm curently learning Next.js Prisma, GraphQL, and TailwindCSS
+* 🧠  I'm curently learning Next.js, Prisma, GraphQL, and TailwindCSS
 * ⚡  Outside of coding, you can catch me yelling at my TV out of pure joy—but most likely out of frustration—while rooting for the Indianapolis Colts or the Mexican National Football Team. Outside of my sports fandom, you can catch me playing with my Australian Cattle and Shepherd mix, Benji!
 
 ### Skills
