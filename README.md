@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cesar Roman
 ===================================================================================================================================
 
-I'm a Chicago-based, "Boogie Down Bronx" raised, full stack software engineer specializing in JavaScript, TypeScript, React, and Node. Currently, I'm a free agent looking to join an exciting tech company with strong leadership, team culture, and growth opportunities!
+I'm a Chicago-based full stack software engineer specializing in JavaScript, TypeScript, React, and Node. Currently, I'm a free agent looking to join an exciting tech company with strong leadership, team culture, and growth opportunities!
 
 * 🖥️  See my portfolio at [cesartheroman.com](http://cesartheroman.com/)
 * ✉️  You can contact me at [cesardroman18@gmail.com](mailto:cesardroman18@gmail.com)
