@@ -1,13 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cesar Roman
 ===================================================================================================================================
 
-I'm a Chicago-based full stack software engineer specializing in JavaScript, TypeScript, React, and Node. Currently, I'm a free agent looking to join an exciting tech company with strong leadership, team culture, and growth opportunities!
+I'm a Chicago-based full stack engineer with a background in B2B SaaS, customer success, and sales. I specialize in JavaScript, TypeScript, React, Node.js, and building reliable, scalable systems across the stack. Recently, I’ve been architecting solutions and delivering impactful features for early-stage startups, with a strong focus on collaboration and engineering culture.
 
-* 🖥️  See my portfolio at [cesartheroman.com](http://cesartheroman.com/)
-* ✉️  You can contact me at [cesardroman18@gmail.com](mailto:cesardroman18@gmail.com)
-* 🤝  I'm open to collaborating on full-time, contract, or freelance opportunities
-* 🧠  I'm curently learning Next.js, Tailwind, Python, and Go
-* ⚡  Outside of coding, you can catch me yelling at my TV out of pure joy—but most likely out of frustration—while rooting for the Indianapolis Colts or the Mexican National Football Team. Outside of my sports fandom, you can catch me playing with my Australian Cattle and Shepherd mix, Benji!
+🛠️ Tech I use: JavaScript/TypeScript, React, Next.js, Supabase, Python, SQL, AWS, Docker
+🌱 Currently learning: Go, Ruby on Rails, Building AI agents/workflows
+🤝 Open to: Full-time, contract, or freelance opportunities—let’s build something great together!
+📫 Portfolio: cesartheroman.com
+📧 Contact: cesardroman18@gmail.com
+
+⚽ When I’m not coding, you’ll find me cheering for (but mostly yelling AT) the Colts or the Mexican National Team, or hanging out with my dog, Benji.
 
 ### Skills
 
