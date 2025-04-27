@@ -9,7 +9,7 @@ I'm a Chicago-based full stack engineer with a background in B2B SaaS, customer 
 
 🤝 Open to: Full-time, contract, or freelance opportunities—let’s build something great together!
 
-📫 Portfolio: cesartheroman.com
+📫 Portfolio: [cesartheroman.com](https://cesartheroman.com/)
 
 📧 Contact: cesardroman18@gmail.com
 
