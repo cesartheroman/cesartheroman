@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cesar Roman
 ===================================================================================================================================
 
-I'm a Chicago-based full stack engineer with a background in B2B SaaS, customer success, and sales. I specialize in JavaScript, TypeScript, React, Node.js, and building reliable, scalable systems across the stack. Recently, I’ve been architecting solutions and delivering impactful features for early-stage startups, with a strong focus on building collaborative engineering cultures.
+I'm a Chicago-based full stack engineer. I specialize in JavaScript, TypeScript, React, Node.js, and building reliable, scalable systems across the stack. Recently, I’ve been architecting solutions and delivering impactful features for early-stage startups, with a strong focus on building collaborative engineering cultures.
 
 🛠️ Tech I use: JavaScript/TypeScript, React, Next.js, Supabase, Python, SQL, AWS, Docker
 
