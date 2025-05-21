@@ -7,7 +7,7 @@ I'm a Chicago-based full stack engineer. I specialize in JavaScript, TypeScript,
 
 🌱 Currently learning: Go, C/C++, Ruby on Rails, and Building AI agents/workflows
 
-🤝 Open to: Full-time, contract, or freelance opportunities—let’s build something great together!
+🤝 Open to: Full-time, consulting, or freelance opportunities—let’s build something great together!
 
 📫 Portfolio: [cesartheroman.com](https://cesartheroman.com/)
 
